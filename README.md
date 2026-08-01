@@ -1,2 +1,9 @@
-# ems-dashboard
-Dashboard historico multi-ciclo da Regional SPI (Cardiometabolico EMS)
+# EMS Dashboard — Regional SPI
+
+Dashboard de produtividade da Regional SPI (Cardiometabólico EMS).
+
+🔗 **[Acessar Dashboard](https://vinipotter87.github.io/ems-dashboard/)**
+
+Último ciclo publicado: **JUL/2026**
+
+Atualizado automaticamente via GitHub Actions.
